@@ -3,3 +3,16 @@
     color: #ff14dc;
     transition: 2s;
 }
+
+@font-face {
+    font-family: 'Avenger'; /* Nombre de la fuente */
+    src: url('../../../assets/fonts/AVENGEANCE HEROIC AVENGER.ttf') format('truetype'), /* Ruta a la fuente regular */
+         
+}
+
+.avenger-h1 {
+
+    font-family: 'Avenger';
+    letter-spacing: 2px;
+
+}
