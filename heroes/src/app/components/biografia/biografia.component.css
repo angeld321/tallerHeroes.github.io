@@ -56,6 +56,57 @@
 }
 
 
+@font-face {
+    font-family: 'hulk'; /* Nombre de la fuente */
+    src: url('../../../assets/fonts/hulk.ttf') format('truetype'), /* Ruta a la fuente regular */
+         
+}
+
+.hulk-a-card {
+
+    font-family: hulk;
+    letter-spacing: 1px;
+    color: #09781c;
+    font-size: 2.3rem; 
+
+}
+
+
+
+@font-face {
+    font-family: 'aquaman'; /* Nombre de la fuente */
+    src: url('../../../assets/fonts/Aquawax Black Trial.ttf') format('truetype'), /* Ruta a la fuente regular */
+         
+}
+
+.aquaman-a-card {
+
+    font-family: aquaman;
+    letter-spacing: 1px;
+    color: aqua;
+    font-size: 2.3rem; 
+
+}
+
+
+
+@font-face {
+    font-family: 'wolverine'; /* Nombre de la fuente */
+    src: url('../../../assets/fonts/ferretfacelaserital.ttf') format('truetype'), /* Ruta a la fuente regular */
+         
+}
+
+.wolverine-a-card {
+
+    font-family: wolverine;
+    letter-spacing: 1px;
+    color: rgba(255, 227, 44, 0.811);
+    font-size: 2.8rem; 
+
+}
+
+
+
 
 
 
