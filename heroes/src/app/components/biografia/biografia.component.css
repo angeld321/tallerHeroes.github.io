@@ -19,7 +19,8 @@
 
     font-family: batman;
     letter-spacing: 1px;
-    font-size: 1.7rem;
+    font-size: 2.6rem;
+    color: rgb(27, 27, 153);
 
 }
 
@@ -36,6 +37,7 @@
     font-family: daredevil;
     letter-spacing: 1px;
     font-size: 1.7rem;    
+    color: rgb(167, 10, 10);
 
 }
 
